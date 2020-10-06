@@ -1,2 +1,3 @@
 # CD-LAB-PROJECTS
-It contains Compiler Design Programs.
+Author: @YRajSingh007
+It contains Compiler Design Lab Programs.
